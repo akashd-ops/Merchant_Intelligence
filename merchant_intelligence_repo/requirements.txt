@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+xgboost
+scikit-learn
+joblib
+pandas
+python-multipart
